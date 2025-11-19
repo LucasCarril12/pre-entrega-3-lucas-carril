@@ -134,6 +134,13 @@ a:focus {
   color: #ffffff;
 }
 
+.navbar .nav-link {
+  color: #ffffff;
+}
+.navbar .nav-link:hover {
+  color: #ffdd00;
+}
+
 .custom_nav-container {
   padding: 0;
 }
